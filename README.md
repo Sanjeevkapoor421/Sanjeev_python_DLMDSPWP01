@@ -17,9 +17,9 @@ This Project is developed for my university course purpose "Programming with Pyt
     make all
     ``` 
 This will :
- * create a virtual environment " myenv "
- * It will install the required dependencies from requirements file
- * Lastly it will run the pipeline script src_sanjeev/main.py file
+ * create a virtual environment " myenv " ✅
+ * It will install the required dependencies from requirements file ✅
+ * Lastly it will run the pipeline script src_sanjeev/main.py file ✅
 
 # 🛠️ Manually run this project if the above ' make ' command didn't work
     ```bash
