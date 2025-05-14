@@ -21,3 +21,10 @@ This will :
  * It will install the required dependencies from requirements file
  * Lastly it will run the pipeline script src_sanjeev/main.py file
 
+# 🛠️ Manually run this project if the above ' make ' command didn't work
+    ```bash
+    python3 -m venv myenv
+    source myenv/bin/activate
+    pip install -r requirements.txt
+    python src_sanjeev/main.py
+    ```
