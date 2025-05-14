@@ -6,7 +6,7 @@ This Project is developed for course purpose "Programming with Python"
 ## steps for mac or linux users 
 1) Clone the project to your local using git command 
     ```bash
-    git clone https://github.com/Sanjeevkapoor421/Python_DLMDSPWP01.git
+    git clone https://github.com/Sanjeevkapoor421/Sanjeev_python_DLMDSPWP01.git
     ```
 2) Open the project using your ide (vscode or pycharm). If python is installed in base folder, the open using terminal.
 
