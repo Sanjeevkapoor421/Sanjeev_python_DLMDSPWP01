@@ -8,6 +8,6 @@ myenv/
 
 # Ignore output directory where results are stored
 output/
-
+.DS_Store
 # Ignore requirements file if you want to ignore environment-specific dependencies
 #requirements.txt

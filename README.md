@@ -12,7 +12,7 @@ This Project is developed for course purpose "Programming with Python"
 
 3) Navigate to the folder Python_DLMDSPWP01 and do git checkout
     ```bash
-    git checkout    features/develope_branch
+    git checkout features/develope_branch
     ```
 4) Run the command " make all " once you are in the project folder.
 
