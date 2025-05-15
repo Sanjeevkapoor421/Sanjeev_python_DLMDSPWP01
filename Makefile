@@ -4,13 +4,12 @@
 
 # Install dependencies  and requirements.txt
 install:
-	python3 -m venv myenv
-	source myenv/bin/activate 
-	pip install -r requirements.txt
-
+	python3.12 -m venv myenv
+	bash -c "source myenv/bin/activate && pip install -r requirements.txt"
+	
 # Run Python script
 run:
-	python src_sanjeev/main.py
+	python3 src_sanjeev/main.py
 
 # Combined target: install + run
 all: install run
