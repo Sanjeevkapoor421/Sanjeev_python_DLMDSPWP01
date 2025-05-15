@@ -23,7 +23,7 @@ This will :
 
 # 🛠️ Manually run this project if the above ' make ' command didn't work
     ```bash
-    python3 -m venv myenv
+    python3.12 -m venv myenv
     source myenv/bin/activate
     pip install -r requirements.txt
     python src_sanjeev/main.py
