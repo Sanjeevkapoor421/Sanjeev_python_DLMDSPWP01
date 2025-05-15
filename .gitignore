@@ -4,7 +4,7 @@
 __pycache__/
 
 # Ignore virtual environment folder
-myenv/
+#myenv/
 
 # Ignore output directory where results are stored
 output/
